@@ -39,5 +39,4 @@ Este proyecto implementa un sistema de autenticación usando JSON Web Tokens (JW
 2. **Signup:** Usar el token obtenido para crear usuarios nuevos.  
 3. **Me:** Usar token para obtener info del usuario actual.
 
-## Autor
-Tu Nombre
+Video mostrando que funciona en postman: https://drive.google.com/file/d/1akiKG7WckAZS3WauK13046EQMQjzEJ1D/view?usp=sharing
